@@ -1,6 +1,6 @@
 [run]
 omit = 
-  ./nuclei/*
+  ./nucle7868i/*
   ./routers/*
   ./setup.py
   ./tests/*
